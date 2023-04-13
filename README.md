@@ -72,7 +72,7 @@ Drag `data/image/albert.exr` into the window or use the command:
 instant-ngp$ ./instant-ngp data/image/albert.exr
 ```
 
-<img src="docs/assets_readme/albert.png"/>
+  <img src="data/image/albert_base_video.gif" width="100%"/>
 
 To reproduce the gigapixel results, download, for example, [the Tokyo image](https://www.flickr.com/photos/trevor_dobson_inefekt69/29314390837) and convert it to `.bin` using the `scripts/convert_image.py` script. This custom format improves compatibility and loading speed when resolution is high. Now you can run:
 
